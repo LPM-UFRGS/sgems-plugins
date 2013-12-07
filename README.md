@@ -1,4 +1,4 @@
 sgems-plugins
 =============
 
-This repository contains the plugins to sgems developed on LPM-UFRGS.
+This repository contains sgems plugins  developed on LPM-UFRGS.
